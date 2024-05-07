@@ -1,0 +1,2 @@
+# Stratmares
+StratOS calamares build
